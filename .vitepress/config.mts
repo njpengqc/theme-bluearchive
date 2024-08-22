@@ -79,6 +79,10 @@ export default defineConfigWithTheme<ThemeConfig>({
     repo: 'theme-bluearchive',
     owner: 'luckypqc',
     admin: ['luckypqc'],
+    labels: ['Gitalk']
+    perPage: 20 
+    pagerDirection: last
+    createIssueManually: true 
   },
   markdown: {
     theme: 'github-light',
