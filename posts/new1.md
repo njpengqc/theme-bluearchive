@@ -21,4 +21,4 @@ head:
 
 > 旧站dora-channel已经全面关停
 
-_From [nanjingpqc‘s Blog(old)](https://dora-channel.top)_
+_From [nanjingpqc's Blog(old)](https://dora-channel.top)_
