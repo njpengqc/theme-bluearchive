@@ -17,6 +17,8 @@ head:
 
 ![游戏内截图](https://ae01.alicdn.com/kf/A554f1e6634654a8fbd3192690d2d97caW.png)
 
+## 天命人万岁！！！
+
 
 
 
