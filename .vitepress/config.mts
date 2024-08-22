@@ -77,8 +77,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     clientID: 'Ov23ligaoWrTZqAGZIc3',
     clientSecret: 'bb5f0b877c77bf054d6ce97c5770a6297a6c28e2',
     repo: 'theme-bluearchive',
-    owner: 'luckypqc',
-    admin: ['luckypqc'],
+    owner: 'njpengqc',
+    admin: ['njpengqc'],
     labels: ['Gitalk']
     perPage: 20 
     pagerDirection: last
