@@ -60,7 +60,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     //banner区配置
     name: "luckypqc's Blog",
     welcomeText: 'Hello!',
-    motto: '何気ない日常で、ほんの少しの奇跡を見つける物語。',
+    motto: '在无心的日常中，发现少许奇迹的故事。',
     social: [
       { icon: 'github', url: 'https://github.com/njpengqc' },
       { icon: 'bilibili', url: 'https://space.bilibili.com/28800005' },
