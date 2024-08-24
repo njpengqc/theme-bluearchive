@@ -1,6 +1,6 @@
 ---
 title: 砂狼シロコ
-date: 2024-08-24
+date: 2024-08-25
 tags: [Chinese, Game, Blue Archive]
 head:
   - - meta
@@ -33,6 +33,6 @@ head:
 
 ![图片1](https://ae01.alicdn.com/kf/S6d20f8c0c83d435bbead53a028cd4b8dy.png)
 
-***本文作者：AndyNotFound[Bilibili账号](https://space.bilibili.com/1224681002/)***
+> ***本文作者：AndyNotFound[Bilibili账号](https://space.bilibili.com/1224681002/)***
 
 
